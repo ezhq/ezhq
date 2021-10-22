@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=ezhq&show_icons=true&border_color=blue&include_all_commits=true&count_private=true&custom_title=BENCHMARK&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezhq&layout=compact&custom_title=LANGUAGE)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
