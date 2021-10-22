@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/ezhq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhq&custom_title=LANGUAGE&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5"  alt="LANGUAGE"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhq&custom_title=LANGUAGE&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=HTML"  alt="LANGUAGE"/>
 </a>
 <a href="https://github.com/ezhq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezhq&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BENCHMARK" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezhq&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&line_height4" alt="BENCHMARK" />
 </a>
 
 
