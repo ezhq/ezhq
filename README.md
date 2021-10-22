@@ -27,14 +27,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhq&custom_title=LANGUAGE&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=HTML"  alt="LANGUAGE"/>
 </a>
 <a href="https://github.com/ezhq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezhq&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&line_height4" alt="BENCHMARK" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezhq&show_icons=true&line_height=27&count_private=true&custom_title=BENCHMARK&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&line_height4" alt="BENCHMARK" />
 </a>
 
 
 <a href="https://github.com/ezhq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezhq&repo=epgs-web&custom_title=BENCHMARK&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezhq&repo=epgs-web&custom_title=epgs-web&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/ezhq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezhq&repo=overwatchspider&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezhq&repo=overwatchspider&custom_title=overwatchspider&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
