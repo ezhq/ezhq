@@ -20,4 +20,24 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezhq&layout=compact&custom_title=LANGUAGE)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+
+
+
+
+<a href="https://github.com/ezhq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhq&custom_title=LANGUAGE&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5"  alt="LANGUAGE"/>
+</a>
+<a href="https://github.com/ezhq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezhq&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BENCHMARK" />
+</a>
+
+
+
+<a href="https://github.com/ezhq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezhq&repo=epgs-web&custom_title=BENCHMARK&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/ezhq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezhq&repo=overwatchspider&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
