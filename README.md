@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 </a>
 
 
-<a href="https://github.com/ezhq">
+<a href="https://github.com/ezhq/epgs-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezhq&repo=epgs-web&custom_title=epgs-web&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/ezhq">
+<a href="https://github.com/ezhq/overwatchspider">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ezhq&repo=overwatchspider&custom_title=overwatchspider&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
